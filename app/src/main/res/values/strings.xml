@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">personalProfile2</string>
+    <string name="txt_header">Erin D</string>
+    <string name="txt_caption">Food Stuff</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Erin loves to cook. He is fscinated with Japenese cuisine especially ramen noodle culture. In Tokyo alone there is 6,000 Ramen Noodle shops.</string>
+</resources>
